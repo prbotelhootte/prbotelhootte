@@ -25,3 +25,5 @@ ETL /ELT: Pentaho, DataFlow (GCP), Apache Airflow, Glue (AWS)
 Manipulação de Big Data: Databricks, Apache Spark, Python, PySpark, SQL
 Cloud: (GCP, AWS, Azure Devops)
 Automação de tarefas: Agentes de IA e N8N
+
+<img width="784" height="82" alt="image" src="https://github.com/user-attachments/assets/156592e2-d6eb-41d1-9b90-dc4ba3a06f17" />
