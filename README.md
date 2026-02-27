@@ -16,12 +16,6 @@ Criação e estruturação de: Data Warehouse e Data lake;
 Orquestração e Automatização de pipelines (ETL/ELT) robustos em nuvem (GCP, AWS, Azure), ou em servidor interno, integrando a múltiplas fontes de dados;
 Desenvolvimento de consultas  T-SQL, com aplicação de técnicas avançadas e manipulação de Big Data;
 
-Metodologias de projeto: Scrum, Kanban;
-Metodologia CRISP-DM para Análise de Dados;
-Ferramentas para versionamento: Git | GitHub
-Metodologias para modelagem dos dados : Medallion Architecture.
-
-
 Habilidades Técnicas:
 Linguagens: Essencialemnte com T-SQL, Python, e tenho conhcimentos nas demais: .NET, ADVPL ,React. NodeJs...
 Ferramentas de BI: Power BI, Looker, Tableau
