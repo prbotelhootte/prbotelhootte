@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Sobre Mim
 
-Sou Paulo Ricardo Otte, sou profissional de tecnologia há mais de 10 anos, atuando como analista de sistemas e Engenheiro de Dados.
+Sou Paulo Ricardo Otte, profissional de tecnologia há mais de 10 anos, atuando como analista de sistemas e Engenheiro de Dados.
 
 Como analista de sistemas protheus, atuei como suporte nivel 1, 2 e 3, realizando desenvolvimento em ADVPL, arquitetura em MVC, com conhecimentos avançados na arquitetura de banco de dados e engenharia de software;
 
